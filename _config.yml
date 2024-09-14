@@ -2,7 +2,7 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Site settings
-title: "Placements Xperience"
+title: "ISI Placements Xperience"
 description: "ISI Kolkata Placements Interview Questions"
 baseurl: "" # Leave empty unless you're hosting in a subdirectory
 url: "" # Base URL
