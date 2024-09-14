@@ -9,10 +9,8 @@ url: "" # Base URL
 
 # Navbar Links
 navbar-links:
-  - name: "Home"
-    link: "/index"
-  - name: "Companies"
-    link: "/companies"
+  Home: "index"
+  Companies: "companies"
 
 # Social Links
 social-network-links:
