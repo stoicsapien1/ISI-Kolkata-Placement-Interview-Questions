@@ -68,7 +68,7 @@ Welcome to the Placements Interview Xperience for ISI Kolkata! This site is dedi
 
 ## Batch Demographics 2024-25
 
-![Batch Demographics](path-to-batch-demographics-image)
+
 
 **Total Batch Size:** 137
 
