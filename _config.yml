@@ -7,13 +7,21 @@ description: "ISI Kolkata Placements Interview Questions"
 baseurl: "" # Leave empty unless you're hosting in a subdirectory
 url: "" # Base URL
 
+# Author settings
+author:
+  name: Belal Ahmed Siddiqui
+
 # Navbar Links
 navbar-links:
   Home: "index"
   Companies: "companies"
+  About Me: "aboutme"
 
 # Social Links
 social-network-links:
   email: "belalahmedsiddiqui8@gmail.com"
   github: "stoicsapien1"
   linkedin: "stoicsapien1"
+
+# Customize the site further
+show_author_info_on_posts: true
