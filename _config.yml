@@ -2,20 +2,20 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Site settings
-title: "Placement Interview Xperience "
+title: "Placement Interview Xperience"
 description: "ISI Kolkata Placement Interview Questions"
 baseurl: "" # Leave empty unless you're hosting in a subdirectory
 url: "" # Base URL
 
 # Navbar Links
 navbar-links:
-Home:"index"
-Companies:"companies"
+  - name: "Home"
+    link: "index"
+  - name: "Companies"
+    link: "companies"
 
 # Social Links
 social-network-links:
   email: "belalahmedsiddiqui8@gmail.com"
   github: "stoicsapien1"
   linkedin: "stoicsapien1"
-
-
