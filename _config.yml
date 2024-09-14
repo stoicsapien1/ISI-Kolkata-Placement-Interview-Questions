@@ -8,8 +8,7 @@ baseurl: "" # Leave empty unless you're hosting in a subdirectory
 url: "" # Base URL
 
 # Author settings
-author:
-  name: Belal Ahmed Siddiqui
+author: Belal Ahmed Siddiqui
 
 # Navbar Links
 navbar-links:
