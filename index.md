@@ -6,7 +6,8 @@ title: Home
 
 ![SQC AND OR UNIT (4)](https://github.com/user-attachments/assets/6de76c8d-3f4f-4230-867d-1161710138d1)
 
-Welcome to the Placements Interview Xperience for ISI Kolkata! This site is dedicated to helping students prepare for placement interviews by providing a comprehensive collection of interview questions from various companies visiting our campus.
+
+Oh hey there, future data warriors! Ready to get your brain grilled by some companies? Don't worry, I’ve got your back. This site’s packed with enough interview questions to make you feel like a superhero. Suit up, dive in, and let’s smash those interviews like it’s taco night! 🌮📊
 
 ## Academic Programmes
 
