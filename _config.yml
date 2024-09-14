@@ -2,7 +2,7 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # Site settings
-title: "Placement Interview"
+title: "Placement Interview Xpereince"
 description: "ISI Kolkata Placement Interview Questions"
 baseurl: "" # Leave empty unless you're hosting in a subdirectory
 url: "" # Base URL
@@ -20,6 +20,4 @@ social-network-links:
   github: "stoicsapien1"
   linkedin: "stoicsapien1"
 
-# Optional: Author information
-author:
-  name: "Belal Ahmed Siddiqui"
+
