@@ -6,6 +6,6 @@ title: Companies
 
 Here's a list of all companies with their interview questions:
 
-- [Company 1](companies/company1)
-- [Company 2](companies/company2)
+- [Amazon](companies/amazon)
+- [Ola](companies/ola)
 - [Company 3](companies/company3)
