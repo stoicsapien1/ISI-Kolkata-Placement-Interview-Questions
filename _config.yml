@@ -1,26 +1,25 @@
-# Theme settings
+
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
-# Site settings
+
 title: "ISI Placements Xperience"
 description: "ISI Kolkata Placements Interview Questions"
-baseurl: "" # Leave empty unless you're hosting in a subdirectory
-url: "" # Base URL
+baseurl: ""
+url: "https://isikolkataplacements.github.io" # Base URL
 
-# Author settings
+
 author: Belal Ahmed Siddiqui
 
-# Navbar Links
 navbar-links:
   Home: "index"
   Companies: "companies"
   About Us: "aboutus"
 
-# Social Links
+
 social-network-links:
   email: "belalahmedsiddiqui8@gmail.com"
   github: "stoicsapien1"
   linkedin: "stoicsapien1"
 
-# Customize the site further
+
 show_author_info_on_posts: true
