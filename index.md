@@ -15,6 +15,7 @@ Oh hey there, future data warriors! Ready to get your brain grilled by some comp
 
 **Undergraduate**
 - Bachelor of Statistics (Honours) [B Stat (Hons)]
+- Bachelor of Statistical Data Science
 
 **Postgraduate**
 - Master of Statistics [M Stat]
