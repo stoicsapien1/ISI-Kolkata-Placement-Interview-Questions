@@ -5,7 +5,7 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 title: "ISI Placements Xperience"
 description: "ISI Kolkata Placements Interview Questions"
 baseurl: "" # Leave empty unless you're hosting in a subdirectory
-url: "https://isikolkataplacements.github.io/index" # Base URL
+url: "https://isikolkataplacements.github.io" # Base URL
 
 # Author settings
 author: Belal Ahmed Siddiqui
